@@ -1,6 +1,6 @@
 import customtkinter as ctk
 from backend import *
-from backend.nutrient_parsing import parse
+
 ctk.set_appearance_mode("dark")   
 ctk.set_default_color_theme("blue")
 
